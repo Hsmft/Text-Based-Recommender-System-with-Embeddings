@@ -1,0 +1,11 @@
+json
+pandas
+nltk
+optuna
+numpy
+sklearn
+matplotlib
+seaborn
+torchmetrics
+torch
+pickle
